@@ -1,2 +1,2 @@
 # MC-AnitCurse
-#Minecraft AnitCurse plugin
+Minecraft AnitCurse plugin
