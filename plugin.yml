@@ -1,1 +1,4 @@
-
+name: AntiCurse
+version: 1.0
+main: me.catdogfatness.anticurse.AntiCurse
+description: Prevent speaking ban words.
